@@ -2,12 +2,11 @@
 
 @section('head')
     
-    <title>ciao</title>
+    <title>Comics-Laravel</title>
 
 @endsection
 
 @section('content')
 
-    <h1>CIao</h1>
     
 @endsection

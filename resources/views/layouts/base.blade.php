@@ -9,6 +9,7 @@
 </head>
 <body>
     @include('components.header')
+    @include('components.jumbotron')
     @yield('content')
     @include('components.footer')
 </body>
